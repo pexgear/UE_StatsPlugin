@@ -1,3 +1,3 @@
-[submodule "Source/ThirdParty/stats_module"]
-	path = Source/ThirdParty/stats_module
+[submodule "Source/ThirdParty/MP_StatsPluginLibrary/Public/stats_module"]
+	path = Source/ThirdParty/MP_StatsPluginLibrary/Public/stats_module
 	url = git@github.com:pexgear/stats_module.git
